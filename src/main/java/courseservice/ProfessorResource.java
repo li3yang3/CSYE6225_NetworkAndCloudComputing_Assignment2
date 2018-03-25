@@ -23,7 +23,7 @@ import courseservice.studentDAO.Professor;
 import creator.AnnouncementCreator;
 import creator.ProfessorCreator;
 
-@Path("Professors")
+@Path("professors")
 public class ProfessorResource {
 	
 	private static AmazonDynamoDB client = AmazonDynamoDBClientBuilder
