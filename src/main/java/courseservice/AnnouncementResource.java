@@ -26,7 +26,7 @@ import creator.CourseCreator;
 /**
  * Root resource (exposed at "myresource" path)
  */
-@Path("Notification")
+@Path("notification")
 public class AnnouncementResource {
 
     /**
