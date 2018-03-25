@@ -1,6 +1,6 @@
 
 AWS host:http://missystem-env.us-east-2.elasticbeanstalk.com/webapi/
-as the EBS has reach the usage limit, so I have to terminate the envrionment.
+as the EBS has reach the free usage limit, so I have to terminate the envrionment.
 
 GET: 
 
